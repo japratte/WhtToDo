@@ -1,2 +1,2 @@
 # WhtToDo
-A to-do list web app
+A to-do list web app (in progress)
